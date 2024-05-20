@@ -1,5 +1,4 @@
 Get the user data...
-<<<<<<< HEAD
+
 obulreddy
-=======
->>>>>>> cd6474572beddf4be06beeac170a9d70f3ea8281
+
